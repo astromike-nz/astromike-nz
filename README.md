@@ -1,10 +1,10 @@
 ## Hello Universe! 👋
 
-- 🧠 **What I build:** REST API's, SQL queries, Optimized backends, React projects
+- 🧠 **What I build:** REST API's, SQL queries, Optimised backends, React projects
 
-- 🎨 **What I care about:** Clean, optimized code. Climate change. World peace (or lack thereof!)
+- 🎨 **What I care about:** Clean, optimised code. Climate change. World peace (or lack thereof!)
 
-- 🧩 **Tech I'm using:** Visual Studio, VS Code, Delphi, SQL Server, MySQL, C#.NET, ASP.NET, EntityFramework, React, JavaScript
+- 🧩 **Tech I'm using:** C#, .NET, Microsoft SQL Server, AWS, MySQL, LINQ, EntityFramework, Visual Studio, VS Code 
 
 - 🚀 **Fun fact:** Outside of work, I'm a (very) amateur astronomer and have in the past produced videos of what I was seeing through my telescope, e.g. [Mars, Saturn, Jupiter](https://www.youtube.com/watch?v=EQVm7p6LkdI). I have also taken up drone flying, and started to produce videos from that footage, e.g. [Jacks Point Lighthouse](https://www.youtube.com/watch?v=QAFEL1Uc79E)
 
@@ -13,7 +13,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C#.Net](https://img.shields.io/badge/C%23.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.Net](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Delphi](https://img.shields.io/badge/delphi-%23B21F24?style=for-the-badge&logo=delphi&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
@@ -37,7 +36,7 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🤝 Connect with me
-- [LinkedIn](https://linkedin.com/in/mike-white-dev1965) 
+- [LinkedIn](https://linkedin.com/in/mike-white-nzdev) 
 - [Digital Business Card (Scrimba project)](https://mike-white-business-card.netlify.app/) 
 - [My Tenzies Game (Scrimba project)](https://mw-tenzies.netlify.app/)
 - [My Scrimba Profile](https://scrimba.com/me/scrims?via=u01bchu) 
